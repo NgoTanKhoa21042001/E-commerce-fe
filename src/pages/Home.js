@@ -3,7 +3,7 @@ import { Col, Row } from "react-bootstrap";
 import { LinkContainer } from "react-router-bootstrap";
 import { Link } from "react-router-dom";
 import categories from "../category";
-
+import "./Home.css";
 const Home = () => {
   return (
     <div>
